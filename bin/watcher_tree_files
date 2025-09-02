@@ -1,0 +1,13 @@
+#!/usr/bin/env zsh
+
+# vim: set ts=2 sts=2 sw=2 expandtab tw=0 foldcolumn=3 :
+
+# Source all scripts in src/
+SCRIPT_DIR="$(cd "$(dirname "${0:A}")" && pwd)"
+SOURCE_DIR="$SCRIPT_DIR/../src"
+for script in $SOURCE_DIR/*.sh; do
+  source "$script"
+done
+
+# Main program logic
+watcher_tree_files "$@"
