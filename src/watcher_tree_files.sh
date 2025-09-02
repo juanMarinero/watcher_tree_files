@@ -17,7 +17,7 @@ watcher_tree_files() {
         exit 0
         ;;
       --which)
-        echo "Program location: $(get_repo_version)"
+        echo "Program location: $(get_repo_root)"
         exit 0
         ;;
       --debug)
