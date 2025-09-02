@@ -1,0 +1,19 @@
+# Inline comments are NOT allowed
+
+# files & folders with string "_noGit"
+*_noGit*
+
+# VIM temporary files
+*~
+*.swp
+*.swo
+*.sw*
+# Vim-netrw - hist[ory]: freq. visited dirs
+.vim/.netrwhist
+
+
+# nested git files (cloned repos)
+**/.git/
+
+# Log files
+nohup.out
