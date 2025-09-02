@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/juanMarinero/watcher_tree_files/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://github.com/juanMarinero/watcher_tree_files/blob/master/LICENSE"><img src="https://img.shields.io/github/license/juanMarinero/watcher_tree_files" alt="LICENSE"></a>
+  <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" alt="ZSH">
+  <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" alt="Linux">
+</div>
+<br/>
+
 
 # 🕵️🗂️ A file event watcher
 
