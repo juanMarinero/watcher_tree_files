@@ -35,4 +35,5 @@ Options:
 --debug
 -v, --verbose
 -d, --directory <path>
+--cmd <command>
 ```
