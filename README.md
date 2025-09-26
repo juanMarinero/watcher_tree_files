@@ -37,3 +37,7 @@ Options:
 -d, --directory <path>
 --cmd <command>
 ```
+
+## Guide
+
+https://juanmarinero.github.io/blogs/watcher_tree_files
